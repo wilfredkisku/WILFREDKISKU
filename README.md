@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilfredkisku
 - 👀 I’m interested in Deep Learning, Machine Learning and VLSI design and implementation (ASIC, FPGA flows)
 - 🌱 I’m currently learning hardware implementation of DNN and model reduction for hardware acceleration
-- 💞️ I’m looking to collaborate on Deep Learning Models and Hardware realizaition of machine learning models 
+- 💞️ I’m looking to collaborate on Deep Learning Models and Hardware realization of machine learning models 
 - 📫 Mail me kisku.1<at>iitj.ac.in
 
 <!---
